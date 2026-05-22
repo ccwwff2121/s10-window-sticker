@@ -1,0 +1,232 @@
+[
+  {
+    "code": "A31",
+    "description": "Power Windows",
+    "category": "Comfort"
+  },
+  {
+    "code": "A33",
+    "description": "Power Door Locks with Remote Keyless Entry",
+    "category": "Comfort"
+  },
+  {
+    "code": "AG1",
+    "description": "Power Adjustable Driver Seat",
+    "category": "Comfort"
+  },
+  {
+    "code": "AM7",
+    "description": "Bucket Seats",
+    "category": "Interior"
+  },
+  {
+    "code": "AQ9",
+    "description": "Bench Seat",
+    "category": "Interior"
+  },
+  {
+    "code": "AU3",
+    "description": "Power Door Locks",
+    "category": "Comfort"
+  },
+  {
+    "code": "B85",
+    "description": "Body Side Moldings",
+    "category": "Exterior"
+  },
+  {
+    "code": "BN2",
+    "description": "Front License Plate Bracket",
+    "category": "Exterior"
+  },
+  {
+    "code": "C49",
+    "description": "Rear Window Defogger",
+    "category": "Comfort"
+  },
+  {
+    "code": "C60",
+    "description": "Air Conditioning",
+    "category": "Comfort"
+  },
+  {
+    "code": "D35",
+    "description": "Below Eye-Line Exterior Mirrors",
+    "category": "Exterior"
+  },
+  {
+    "code": "DD7",
+    "description": "Interior Rearview Mirror (auto-dimming)",
+    "category": "Interior"
+  },
+  {
+    "code": "DL3",
+    "description": "Power Exterior Mirrors",
+    "category": "Exterior"
+  },
+  {
+    "code": "G80",
+    "description": "Locking Rear Differential",
+    "category": "Drivetrain"
+  },
+  {
+    "code": "GT4",
+    "description": "3.73 Rear Axle Ratio",
+    "category": "Drivetrain"
+  },
+  {
+    "code": "GT5",
+    "description": "4.10 Rear Axle Ratio",
+    "category": "Drivetrain"
+  },
+  {
+    "code": "GU6",
+    "description": "3.42 Rear Axle Ratio",
+    "category": "Drivetrain"
+  },
+  {
+    "code": "K34",
+    "description": "Cruise Control",
+    "category": "Comfort"
+  },
+  {
+    "code": "L25",
+    "description": "1.9L I4 Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "L35",
+    "description": "4.3L V6 Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "L43",
+    "description": "2.5L I4 Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "L44",
+    "description": "2.0L I4 Turbo Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "LF6",
+    "description": "4.3L V6 Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "LL8",
+    "description": "2.2L I4 Ecotec Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "LN2",
+    "description": "2.2L I4 Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "LQ2",
+    "description": "2.0L I4 Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "LR2",
+    "description": "2.8L V6 Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "LU3",
+    "description": "4.3L V6 Vortec Engine",
+    "category": "Engine"
+  },
+  {
+    "code": "M30",
+    "description": "4-Speed Automatic Transmission",
+    "category": "Drivetrain"
+  },
+  {
+    "code": "MX0",
+    "description": "5-Speed Manual Transmission",
+    "category": "Drivetrain"
+  },
+  {
+    "code": "N33",
+    "description": "Tilt Steering Column",
+    "category": "Comfort"
+  },
+  {
+    "code": "NP8",
+    "description": "4-Wheel Drive (Insta-Trac)",
+    "category": "Drivetrain"
+  },
+  {
+    "code": "PY7",
+    "description": "Aluminum Wheels",
+    "category": "Exterior"
+  },
+  {
+    "code": "QJM",
+    "description": "P235/70R15 Tires",
+    "category": "Exterior"
+  },
+  {
+    "code": "T96",
+    "description": "Fog Lamps",
+    "category": "Exterior"
+  },
+  {
+    "code": "U52",
+    "description": "AM/FM Stereo with CD Player",
+    "category": "Audio"
+  },
+  {
+    "code": "UK3",
+    "description": "Steering Wheel Audio Controls",
+    "category": "Audio"
+  },
+  {
+    "code": "UQ3",
+    "description": "AM/FM Stereo with Cassette",
+    "category": "Audio"
+  },
+  {
+    "code": "V22",
+    "description": "Trailer Hitch Platform",
+    "category": "Exterior"
+  },
+  {
+    "code": "VG3",
+    "description": "Front Bumper Guards",
+    "category": "Exterior"
+  },
+  {
+    "code": "VK3",
+    "description": "Front License Plate Bracket (California)",
+    "category": "Exterior"
+  },
+  {
+    "code": "YE9",
+    "description": "California Emissions",
+    "category": "Emissions"
+  },
+  {
+    "code": "Z71",
+    "description": "Off-Road Suspension Package",
+    "category": "Suspension"
+  },
+  {
+    "code": "Z85",
+    "description": "Handling Suspension Package",
+    "category": "Suspension"
+  },
+  {
+    "code": "ZQ8",
+    "description": "Sport Suspension Package",
+    "category": "Suspension"
+  },
+  {
+    "code": "ZR2",
+    "description": "Off-Road Wide Stance Package",
+    "category": "Suspension"
+  }
+]

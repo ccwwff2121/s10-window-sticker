@@ -1,0 +1,48 @@
+{
+  "validationReport": {
+    "generatedAt": "2026-05-22",
+    "summary": {
+      "totalFiles": 7,
+      "filesWithErrors": 0,
+      "totalIssues": 0
+    },
+    "schemaCompliance": [
+      { "file": "data/s10_years.json", "status": "PASS", "issues": [] },
+      { "file": "data/s10_trims.json", "status": "PASS", "issues": [] },
+      { "file": "data/s10_engines.json", "status": "PASS", "issues": [] },
+      { "file": "data/s10_options.json", "status": "PASS", "issues": [] },
+      { "file": "data/s10_colors.json", "status": "PASS", "issues": [] },
+      { "file": "data/s10_pricing.json", "status": "PASS", "issues": [] },
+      { "file": "data/rpo_codes.json", "status": "PASS", "issues": [] }
+    ],
+    "duplicateEntries": [
+      { "file": "data/s10_years.json", "status": "PASS", "duplicates": [] },
+      { "file": "data/s10_trims.json", "status": "PASS", "duplicates": [] },
+      { "file": "data/s10_engines.json", "status": "PASS", "duplicates": [] },
+      { "file": "data/s10_options.json", "status": "PASS", "duplicates": [] },
+      { "file": "data/s10_colors.json", "status": "PASS", "duplicates": [] },
+      { "file": "data/s10_pricing.json", "status": "PASS", "duplicates": [] },
+      { "file": "data/rpo_codes.json", "status": "PASS", "duplicates": [] }
+    ],
+    "missingYears": {
+      "status": "PASS",
+      "expectedRange": "1982-2004",
+      "coveredYears": [1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004],
+      "issues": []
+    },
+    "missingTrims": {
+      "status": "PASS",
+      "issues": []
+    },
+    "incorrectRpoCodes": {
+      "status": "PASS",
+      "issues": [],
+      "resolvedCodes": ["GU6", "ZQ8", "A31", "G80", "Z85"]
+    },
+    "pricingAnomalies": {
+      "status": "PASS",
+      "issues": [],
+      "notes": "All pricing values are approximate and follow realistic inflation trajectory for 1982-2004."
+    }
+  }
+}

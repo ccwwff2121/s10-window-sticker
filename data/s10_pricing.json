@@ -1,0 +1,314 @@
+[
+  {
+    "year": 1982,
+    "trim": "Base",
+    "baseMsrp": 6595,
+    "destination": 350
+  },
+  {
+    "year": 1983,
+    "trim": "Base",
+    "baseMsrp": 6895,
+    "destination": 365
+  },
+  {
+    "year": 1984,
+    "trim": "Base",
+    "baseMsrp": 7195,
+    "destination": 375
+  },
+  {
+    "year": 1985,
+    "trim": "Base",
+    "baseMsrp": 7495,
+    "destination": 385
+  },
+  {
+    "year": 1986,
+    "trim": "Base",
+    "baseMsrp": 7695,
+    "destination": 395
+  },
+  {
+    "year": 1987,
+    "trim": "Base",
+    "baseMsrp": 7895,
+    "destination": 400
+  },
+  {
+    "year": 1988,
+    "trim": "Base",
+    "baseMsrp": 8295,
+    "destination": 415
+  },
+  {
+    "year": 1989,
+    "trim": "Base",
+    "baseMsrp": 8695,
+    "destination": 425
+  },
+  {
+    "year": 1990,
+    "trim": "Base",
+    "baseMsrp": 8995,
+    "destination": 435
+  },
+  {
+    "year": 1991,
+    "trim": "Base",
+    "baseMsrp": 9295,
+    "destination": 450
+  },
+  {
+    "year": 1991,
+    "trim": "Tahoe",
+    "baseMsrp": 11495,
+    "destination": 450
+  },
+  {
+    "year": 1992,
+    "trim": "Base",
+    "baseMsrp": 9595,
+    "destination": 460
+  },
+  {
+    "year": 1992,
+    "trim": "Tahoe",
+    "baseMsrp": 11895,
+    "destination": 460
+  },
+  {
+    "year": 1993,
+    "trim": "Base",
+    "baseMsrp": 9895,
+    "destination": 475
+  },
+  {
+    "year": 1993,
+    "trim": "Tahoe",
+    "baseMsrp": 12195,
+    "destination": 475
+  },
+  {
+    "year": 1994,
+    "trim": "Base",
+    "baseMsrp": 10495,
+    "destination": 495
+  },
+  {
+    "year": 1994,
+    "trim": "LS",
+    "baseMsrp": 13295,
+    "destination": 495
+  },
+  {
+    "year": 1995,
+    "trim": "Base",
+    "baseMsrp": 10995,
+    "destination": 495
+  },
+  {
+    "year": 1995,
+    "trim": "LS",
+    "baseMsrp": 13695,
+    "destination": 495
+  },
+  {
+    "year": 1996,
+    "trim": "Base",
+    "baseMsrp": 11295,
+    "destination": 520
+  },
+  {
+    "year": 1996,
+    "trim": "LS",
+    "baseMsrp": 14095,
+    "destination": 520
+  },
+  {
+    "year": 1997,
+    "trim": "Base",
+    "baseMsrp": 11995,
+    "destination": 540
+  },
+  {
+    "year": 1997,
+    "trim": "LS",
+    "baseMsrp": 14795,
+    "destination": 540
+  },
+  {
+    "year": 1998,
+    "trim": "Base",
+    "baseMsrp": 12495,
+    "destination": 550
+  },
+  {
+    "year": 1998,
+    "trim": "LS",
+    "baseMsrp": 15295,
+    "destination": 550
+  },
+  {
+    "year": 1998,
+    "trim": "ZR2",
+    "baseMsrp": 19995,
+    "destination": 550
+  },
+  {
+    "year": 1999,
+    "trim": "Base",
+    "baseMsrp": 12995,
+    "destination": 560
+  },
+  {
+    "year": 1999,
+    "trim": "LS",
+    "baseMsrp": 15795,
+    "destination": 560
+  },
+  {
+    "year": 1999,
+    "trim": "ZR2",
+    "baseMsrp": 20495,
+    "destination": 560
+  },
+  {
+    "year": 2000,
+    "trim": "Base",
+    "baseMsrp": 13495,
+    "destination": 575
+  },
+  {
+    "year": 2000,
+    "trim": "LS",
+    "baseMsrp": 16295,
+    "destination": 575
+  },
+  {
+    "year": 2000,
+    "trim": "ZR2",
+    "baseMsrp": 21495,
+    "destination": 575
+  },
+  {
+    "year": 2000,
+    "trim": "Xtreme",
+    "baseMsrp": 17995,
+    "destination": 575
+  },
+  {
+    "year": 2001,
+    "trim": "Base",
+    "baseMsrp": 13995,
+    "destination": 590
+  },
+  {
+    "year": 2001,
+    "trim": "LS",
+    "baseMsrp": 16795,
+    "destination": 590
+  },
+  {
+    "year": 2001,
+    "trim": "ZR2",
+    "baseMsrp": 22195,
+    "destination": 590
+  },
+  {
+    "year": 2001,
+    "trim": "Xtreme",
+    "baseMsrp": 18495,
+    "destination": 590
+  },
+  {
+    "year": 2002,
+    "trim": "Base",
+    "baseMsrp": 14495,
+    "destination": 610
+  },
+  {
+    "year": 2002,
+    "trim": "LS",
+    "baseMsrp": 17295,
+    "destination": 610
+  },
+  {
+    "year": 2002,
+    "trim": "ZR2",
+    "baseMsrp": 22895,
+    "destination": 610
+  },
+  {
+    "year": 2002,
+    "trim": "Xtreme",
+    "baseMsrp": 18995,
+    "destination": 610
+  },
+  {
+    "year": 2002,
+    "trim": "ZR5",
+    "baseMsrp": 19495,
+    "destination": 610
+  },
+  {
+    "year": 2003,
+    "trim": "Base",
+    "baseMsrp": 14995,
+    "destination": 625
+  },
+  {
+    "year": 2003,
+    "trim": "LS",
+    "baseMsrp": 17795,
+    "destination": 625
+  },
+  {
+    "year": 2003,
+    "trim": "ZR2",
+    "baseMsrp": 23495,
+    "destination": 625
+  },
+  {
+    "year": 2003,
+    "trim": "Xtreme",
+    "baseMsrp": 19495,
+    "destination": 625
+  },
+  {
+    "year": 2003,
+    "trim": "ZR5",
+    "baseMsrp": 19995,
+    "destination": 625
+  },
+  {
+    "year": 2004,
+    "trim": "Base",
+    "baseMsrp": 15495,
+    "destination": 640
+  },
+  {
+    "year": 2004,
+    "trim": "LS",
+    "baseMsrp": 18295,
+    "destination": 640
+  },
+  {
+    "year": 2004,
+    "trim": "ZR2",
+    "baseMsrp": 23995,
+    "destination": 640
+  },
+  {
+    "year": 2004,
+    "trim": "Xtreme",
+    "baseMsrp": 19995,
+    "destination": 640
+  },
+  {
+    "year": 2004,
+    "trim": "ZR5",
+    "baseMsrp": 20495,
+    "destination": 640
+  }
+]

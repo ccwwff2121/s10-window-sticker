@@ -1,0 +1,218 @@
+[
+  {
+    "code": "ZQ8",
+    "description": "Sport Suspension Package",
+    "price": 450,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "Z85",
+    "description": "Handling Suspension Package",
+    "price": 0,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "Z71",
+    "description": "Off-Road Suspension Package",
+    "price": 375,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "G80",
+    "description": "Locking Rear Differential",
+    "price": 275,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "GU6",
+    "description": "3.42 Rear Axle Ratio",
+    "price": 0,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "GT4",
+    "description": "3.73 Rear Axle Ratio",
+    "price": 0,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "GT5",
+    "description": "4.10 Rear Axle Ratio",
+    "price": 0,
+    "years": [1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "A31",
+    "description": "Power Windows",
+    "price": 325,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "AU3",
+    "description": "Power Door Locks",
+    "price": 195,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "A33",
+    "description": "Power Door Locks with Remote Keyless Entry",
+    "price": 250,
+    "years": [1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "BN2",
+    "description": "Front License Plate Bracket",
+    "price": 0,
+    "years": [1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "C49",
+    "description": "Rear Window Defogger",
+    "price": 170,
+    "years": [1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "C60",
+    "description": "Air Conditioning",
+    "price": 795,
+    "years": [1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "D35",
+    "description": "Below Eye-Line Exterior Mirrors",
+    "price": 55,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "DL3",
+    "description": "Power Exterior Mirrors",
+    "price": 125,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "K34",
+    "description": "Cruise Control",
+    "price": 250,
+    "years": [1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "MX0",
+    "description": "5-Speed Manual Transmission",
+    "price": 0,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "M30",
+    "description": "4-Speed Automatic Transmission",
+    "price": 895,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "NP8",
+    "description": "4-Wheel Drive (Insta-Trac)",
+    "price": 2995,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "N33",
+    "description": "Tilt Steering Column",
+    "price": 135,
+    "years": [1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "PY7",
+    "description": "Aluminum Wheels",
+    "price": 495,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "QJM",
+    "description": "P235/70R15 Tires",
+    "price": 0,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "T96",
+    "description": "Fog Lamps",
+    "price": 110,
+    "years": [1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "U52",
+    "description": "AM/FM Stereo with CD Player",
+    "price": 325,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "UQ3",
+    "description": "AM/FM Stereo with Cassette",
+    "price": 150,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000]
+  },
+  {
+    "code": "UK3",
+    "description": "Steering Wheel Audio Controls",
+    "price": 75,
+    "years": [2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "V22",
+    "description": "Trailer Hitch Platform",
+    "price": 250,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "VG3",
+    "description": "Front Bumper Guards",
+    "price": 65,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993]
+  },
+  {
+    "code": "VK3",
+    "description": "Front License Plate Bracket (California)",
+    "price": 0,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "YE9",
+    "description": "California Emissions",
+    "price": 100,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "B85",
+    "description": "Body Side Moldings",
+    "price": 95,
+    "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "ZR2",
+    "description": "Off-Road Wide Stance Package",
+    "price": 4195,
+    "years": [1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "AQ9",
+    "description": "Bench Seat",
+    "price": 0,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "AM7",
+    "description": "Bucket Seats",
+    "price": 195,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "AG1",
+    "description": "Power Adjustable Driver Seat",
+    "price": 295,
+    "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004]
+  },
+  {
+    "code": "DD7",
+    "description": "Interior Rearview Mirror (auto-dimming)",
+    "price": 110,
+    "years": [2000, 2001, 2002, 2003, 2004]
+  }
+]

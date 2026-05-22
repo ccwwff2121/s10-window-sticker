@@ -1,0 +1,291 @@
+[
+  {
+    "year": 1982,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "45", "name": "Light Blue Metallic" }
+    ]
+  },
+  {
+    "year": 1983,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "45", "name": "Light Blue Metallic" },
+      { "code": "68", "name": "Dark Brown Metallic" }
+    ]
+  },
+  {
+    "year": 1984,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "68", "name": "Dark Brown Metallic" },
+      { "code": "58", "name": "Royal Blue Metallic" }
+    ]
+  },
+  {
+    "year": 1985,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "58", "name": "Royal Blue Metallic" },
+      { "code": "26", "name": "Silver Metallic" }
+    ]
+  },
+  {
+    "year": 1986,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "34", "name": "Light Gold Metallic" }
+    ]
+  },
+  {
+    "year": 1987,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "34", "name": "Light Gold Metallic" }
+    ]
+  },
+  {
+    "year": 1988,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "34", "name": "Light Gold Metallic" },
+      { "code": "79", "name": "Dark Red Metallic" }
+    ]
+  },
+  {
+    "year": 1989,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "79", "name": "Dark Red Metallic" },
+      { "code": "43", "name": "Medium Blue Metallic" }
+    ]
+  },
+  {
+    "year": 1990,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "43", "name": "Medium Blue Metallic" },
+      { "code": "37", "name": "Dark Green Metallic" }
+    ]
+  },
+  {
+    "year": 1991,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "37", "name": "Dark Green Metallic" },
+      { "code": "33", "name": "Autumn Gold Metallic" }
+    ]
+  },
+  {
+    "year": 1992,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "37", "name": "Dark Green Metallic" },
+      { "code": "80", "name": "Dark Garnet Red Metallic" }
+    ]
+  },
+  {
+    "year": 1993,
+    "colors": [
+      { "code": "19", "name": "Black" },
+      { "code": "10", "name": "White" },
+      { "code": "56", "name": "Dark Blue Metallic" },
+      { "code": "72", "name": "Red" },
+      { "code": "26", "name": "Silver Metallic" },
+      { "code": "37", "name": "Dark Green Metallic" },
+      { "code": "80", "name": "Dark Garnet Red Metallic" },
+      { "code": "98", "name": "Dark Teal Metallic" }
+    ]
+  },
+  {
+    "year": 1994,
+    "colors": [
+      { "code": "41U", "name": "Black" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "28U", "name": "Dark Blue-Green Metallic" },
+      { "code": "72U", "name": "Bright Red" },
+      { "code": "13U", "name": "Silver Metallic" },
+      { "code": "38U", "name": "Dark Green Metallic" },
+      { "code": "98U", "name": "Dark Teal Metallic" }
+    ]
+  },
+  {
+    "year": 1995,
+    "colors": [
+      { "code": "41U", "name": "Black" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "28U", "name": "Dark Blue-Green Metallic" },
+      { "code": "72U", "name": "Bright Red" },
+      { "code": "13U", "name": "Silver Metallic" },
+      { "code": "38U", "name": "Dark Green Metallic" },
+      { "code": "98U", "name": "Dark Teal Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" }
+    ]
+  },
+  {
+    "year": 1996,
+    "colors": [
+      { "code": "41U", "name": "Black" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Bright Red" },
+      { "code": "13U", "name": "Silver Metallic" },
+      { "code": "38U", "name": "Dark Green Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "56U", "name": "Dark Blue Metallic" },
+      { "code": "60U", "name": "Indigo Blue Metallic" }
+    ]
+  },
+  {
+    "year": 1997,
+    "colors": [
+      { "code": "41U", "name": "Black" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Bright Red" },
+      { "code": "13U", "name": "Silver Metallic" },
+      { "code": "38U", "name": "Dark Green Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "56U", "name": "Dark Blue Metallic" },
+      { "code": "60U", "name": "Indigo Blue Metallic" }
+    ]
+  },
+  {
+    "year": 1998,
+    "colors": [
+      { "code": "41U", "name": "Black Onyx" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Bright Red" },
+      { "code": "15U", "name": "Silvermist Metallic" },
+      { "code": "38U", "name": "Meadow Green Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "56U", "name": "Dark Blue Metallic" },
+      { "code": "67U", "name": "Medium Blue-Green Metallic" },
+      { "code": "46U", "name": "Light Pewter Metallic" }
+    ]
+  },
+  {
+    "year": 1999,
+    "colors": [
+      { "code": "41U", "name": "Black Onyx" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Victory Red" },
+      { "code": "15U", "name": "Silvermist Metallic" },
+      { "code": "38U", "name": "Meadow Green Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "46U", "name": "Light Pewter Metallic" },
+      { "code": "64U", "name": "Indigo Blue Metallic" },
+      { "code": "61U", "name": "Medium Charcoal Gray Metallic" }
+    ]
+  },
+  {
+    "year": 2000,
+    "colors": [
+      { "code": "41U", "name": "Black Onyx" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Victory Red" },
+      { "code": "15U", "name": "Silvermist Metallic" },
+      { "code": "46U", "name": "Light Pewter Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "64U", "name": "Indigo Blue Metallic" },
+      { "code": "61U", "name": "Medium Charcoal Gray Metallic" },
+      { "code": "55U", "name": "Dark Forest Green Metallic" }
+    ]
+  },
+  {
+    "year": 2001,
+    "colors": [
+      { "code": "41U", "name": "Black Onyx" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Victory Red" },
+      { "code": "15U", "name": "Silvermist Metallic" },
+      { "code": "46U", "name": "Light Pewter Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "64U", "name": "Indigo Blue Metallic" },
+      { "code": "55U", "name": "Dark Forest Green Metallic" },
+      { "code": "36U", "name": "Forest Green Metallic" }
+    ]
+  },
+  {
+    "year": 2002,
+    "colors": [
+      { "code": "41U", "name": "Black Onyx" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Victory Red" },
+      { "code": "15U", "name": "Silvermist Metallic" },
+      { "code": "46U", "name": "Light Pewter Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "64U", "name": "Indigo Blue Metallic" },
+      { "code": "55U", "name": "Dark Forest Green Metallic" },
+      { "code": "11U", "name": "Bright Silver Metallic" }
+    ]
+  },
+  {
+    "year": 2003,
+    "colors": [
+      { "code": "41U", "name": "Black Onyx" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Victory Red" },
+      { "code": "15U", "name": "Silvermist Metallic" },
+      { "code": "46U", "name": "Light Pewter Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "64U", "name": "Indigo Blue Metallic" },
+      { "code": "11U", "name": "Bright Silver Metallic" },
+      { "code": "58U", "name": "Arrival Blue Metallic" },
+      { "code": "91U", "name": "Sandalwood Metallic" }
+    ]
+  },
+  {
+    "year": 2004,
+    "colors": [
+      { "code": "41U", "name": "Black Onyx" },
+      { "code": "50U", "name": "Summit White" },
+      { "code": "72U", "name": "Victory Red" },
+      { "code": "15U", "name": "Silvermist Metallic" },
+      { "code": "46U", "name": "Light Pewter Metallic" },
+      { "code": "80U", "name": "Dark Cherry Red Metallic" },
+      { "code": "11U", "name": "Bright Silver Metallic" },
+      { "code": "58U", "name": "Arrival Blue Metallic" },
+      { "code": "91U", "name": "Sandalwood Metallic" },
+      { "code": "16U", "name": "Platinum Metallic" }
+    ]
+  }
+]
