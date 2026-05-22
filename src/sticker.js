@@ -24,27 +24,42 @@ const StickerBuilder = (() => {
   async function loadData() {
     if (dataLoaded) return;
     
+    // Check if data is embedded inline (for file:// protocol compatibility)
+    if (typeof S10_EMBEDDED_DATA !== 'undefined') {
+      DATA = S10_EMBEDDED_DATA;
+      dataLoaded = true;
+      return;
+    }
+
+    // Otherwise try fetch (works with http:// server)
     try {
-      const basePath = '../data/';
+      // Try multiple path patterns for flexibility
+      let basePath = '../data/';
+      
+      // Detect if we're at root level
+      if (window.location.pathname.endsWith('/index.html') && !window.location.pathname.includes('/src/')) {
+        basePath = 'data/';
+      }
+      
       const [years, trims, engines, options, pricing, colors, rpoCodes, stdEquip, fuel, trans, plants] = await Promise.all([
-        fetch(basePath + 's10_years.json').then(r => r.json()),
-        fetch(basePath + 's10_trims.json').then(r => r.json()),
-        fetch(basePath + 's10_engines.json').then(r => r.json()),
-        fetch(basePath + 's10_options.json').then(r => r.json()),
-        fetch(basePath + 's10_pricing.json').then(r => r.json()),
-        fetch(basePath + 's10_colors.json').then(r => r.json()),
-        fetch(basePath + 'rpo_codes.json').then(r => r.json()),
-        fetch(basePath + 's10_standard_equipment.json').then(r => r.json()),
-        fetch(basePath + 's10_fuel_economy.json').then(r => r.json()),
-        fetch(basePath + 's10_transmissions.json').then(r => r.json()),
-        fetch(basePath + 's10_plants.json').then(r => r.json())
+        fetch(basePath + 's10_years.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_trims.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_engines.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_options.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_pricing.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_colors.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 'rpo_codes.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_standard_equipment.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_fuel_economy.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_transmissions.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); }),
+        fetch(basePath + 's10_plants.json').then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); })
       ]);
 
       DATA = { years, trims, engines, options, pricing, colors, rpoCodes, standardEquipment: stdEquip, fuelEconomy: fuel, transmissions: trans, plants };
       dataLoaded = true;
     } catch (err) {
-      console.error('Failed to load data:', err);
-      throw new Error('Unable to load vehicle database. Please try again.');
+      console.error('Failed to load data via fetch:', err);
+      throw new Error('Unable to load vehicle database. If opening this file directly, please use the root index.html or serve via a web server (e.g., npx http-server).');
     }
   }
 
