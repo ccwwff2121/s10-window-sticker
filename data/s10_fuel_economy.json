@@ -1,0 +1,14 @@
+[
+  { "engine": "1.9L I4", "years": [1982, 1983, 1984, 1985], "mpgCity": 28, "mpgHighway": 36, "drivetrain": "2WD" },
+  { "engine": "2.0L I4", "years": [1983, 1984], "mpgCity": 26, "mpgHighway": 34, "drivetrain": "2WD" },
+  { "engine": "2.5L I4", "years": [1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993], "mpgCity": 23, "mpgHighway": 30, "drivetrain": "2WD" },
+  { "engine": "2.5L I4", "years": [1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993], "mpgCity": 20, "mpgHighway": 26, "drivetrain": "4WD" },
+  { "engine": "2.8L V6", "years": [1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993], "mpgCity": 19, "mpgHighway": 25, "drivetrain": "2WD" },
+  { "engine": "2.8L V6", "years": [1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993], "mpgCity": 17, "mpgHighway": 22, "drivetrain": "4WD" },
+  { "engine": "4.3L V6", "years": [1988, 1989, 1990, 1991, 1992, 1993], "mpgCity": 16, "mpgHighway": 22, "drivetrain": "2WD" },
+  { "engine": "4.3L V6", "years": [1988, 1989, 1990, 1991, 1992, 1993], "mpgCity": 15, "mpgHighway": 20, "drivetrain": "4WD" },
+  { "engine": "2.2L I4", "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003], "mpgCity": 23, "mpgHighway": 29, "drivetrain": "2WD" },
+  { "engine": "2.2L I4", "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003], "mpgCity": 20, "mpgHighway": 25, "drivetrain": "4WD" },
+  { "engine": "4.3L V6", "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004], "mpgCity": 17, "mpgHighway": 23, "drivetrain": "2WD" },
+  { "engine": "4.3L V6", "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004], "mpgCity": 15, "mpgHighway": 19, "drivetrain": "4WD" }
+]
