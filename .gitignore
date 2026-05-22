@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# AI drafts
+*.draft
+*.backup
+*.bak
+
+# Local environment
+.env
+.env.*
+
+# Data that should not be committed
+/tests/local/*
+/data/_work/*
