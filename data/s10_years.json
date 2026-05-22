@@ -18,8 +18,8 @@
   { "year": 1998, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab"], "notes": "" },
   { "year": 1999, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab"], "notes": "" },
   { "year": 2000, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab"], "notes": "" },
-  { "year": 2001, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab"], "notes": "" },
-  { "year": 2002, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab"], "notes": "" },
-  { "year": 2003, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab"], "notes": "" },
-  { "year": 2004, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab"], "notes": "Final model year" }
+  { "year": 2001, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab", "Crew Cab"], "notes": "Crew Cab introduced" },
+  { "year": 2002, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab", "Crew Cab"], "notes": "" },
+  { "year": 2003, "models": ["S-10"], "bodyStyles": ["Regular Cab", "Extended Cab", "Crew Cab"], "notes": "" },
+  { "year": 2004, "models": ["S-10"], "bodyStyles": ["Crew Cab"], "notes": "Final model year; Crew Cab only" }
 ]

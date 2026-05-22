@@ -32,127 +32,155 @@
   {
     "year": 1987,
     "trims": [
-      { "name": "Base",   "engines": ["2.5L I4", "2.8L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "Tahoe",  "engines": ["2.5L I4", "2.8L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",  "engines": ["2.5L I4", "2.8L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Tahoe", "engines": ["2.5L I4", "2.8L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1988,
     "trims": [
-      { "name": "Base",   "engines": ["2.5L I4", "2.8L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "Tahoe",  "engines": ["2.5L I4", "2.8L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",  "engines": ["2.5L I4", "2.8L V6", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Tahoe", "engines": ["2.5L I4", "2.8L V6", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1989,
     "trims": [
-      { "name": "Base",   "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "Tahoe",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Tahoe", "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Baja",  "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Cameo", "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab"] }
     ]
   },
   {
     "year": 1990,
     "trims": [
-      { "name": "Base",   "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "Tahoe",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Tahoe", "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Baja",  "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Cameo", "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab"] }
     ]
   },
   {
     "year": 1991,
     "trims": [
-      { "name": "Base",   "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "Tahoe",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",     "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Tahoe",   "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Baja",    "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Cameo EL","engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab"] }
     ]
   },
   {
     "year": 1992,
     "trims": [
-      { "name": "Base",   "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "Tahoe",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Tahoe", "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1993,
     "trims": [
-      { "name": "Base",   "engines": ["2.8L V6", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "Tahoe",  "engines": ["2.8L V6", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",  "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Tahoe", "engines": ["2.5L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1994,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base", "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "SS",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1995,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base", "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "SS",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1996,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base", "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "SS",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",  "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1997,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base", "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "SS",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",  "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1998,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base", "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "SS",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",  "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 1999,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",     "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Xtreme","engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 2000,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",     "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "Xtreme","engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 2001,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",     "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab", "Crew Cab"] },
+      { "name": "SLS",    "engines": ["4.3L V6"],            "bodyStyles": ["Crew Cab"] },
+      { "name": "Xtreme","engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 2002,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",     "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab", "Crew Cab"] },
+      { "name": "SLS",    "engines": ["4.3L V6"],            "bodyStyles": ["Crew Cab"] },
+      { "name": "Xtreme","engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 2003,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base",   "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "LS",     "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab", "Crew Cab"] },
+      { "name": "SLS",    "engines": ["4.3L V6"],            "bodyStyles": ["Crew Cab"] },
+      { "name": "Xtreme","engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
+      { "name": "ZR2",   "engines": ["4.3L V6"],            "bodyStyles": ["Regular Cab", "Extended Cab"] }
     ]
   },
   {
     "year": 2004,
     "trims": [
-      { "name": "Base",    "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] },
-      { "name": "LS",      "engines": ["2.2L I4", "4.3L V6"], "bodyStyles": ["Regular Cab", "Extended Cab"] }
+      { "name": "Base", "engines": ["4.3L V6"], "bodyStyles": ["Crew Cab"] },
+      { "name": "LS",   "engines": ["4.3L V6"], "bodyStyles": ["Crew Cab"] },
+      { "name": "SLS",  "engines": ["4.3L V6"], "bodyStyles": ["Crew Cab"] }
     ]
   }
 ]

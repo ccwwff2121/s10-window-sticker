@@ -1,9 +1,13 @@
 [
-  { "code": "LQ9",  "description": "1.9L I4",  "years": [1982, 1983, 1984] },
-  { "code": "LQ5",  "description": "2.0L I4",  "years": [1982, 1983, 1984] },
-  { "code": "LC1",  "description": "2.5L I4",  "years": [1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992] },
-  { "code": "LL2",  "description": "2.8L V6",  "years": [1982, 1983, 1984, 1985, 1986, 1987, 1988, 1993] },
-  { "code": "LB4",  "description": "4.3L V6",  "years": [1988, 1989, 1990, 1991, 1992, 1993] },
-  { "code": "LN2",  "description": "2.2L I4",  "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004] },
-  { "code": "L35",  "description": "4.3L V6",  "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004] }
+  { "code": "LR1",  "description": "1.9L I4 SOHC",          "years": [1982, 1983, 1984, 1985] },
+  { "code": "LQ2",  "description": "2.0L I4 OHV",           "years": [1983, 1984] },
+  { "code": "LQ7",  "description": "2.2L I4 Diesel",        "years": [1984, 1985] },
+  { "code": "LC1",  "description": "2.5L I4",               "years": [1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993] },
+  { "code": "LR2",  "description": "2.8L V6",               "years": [1982, 1983, 1984, 1985] },
+  { "code": "LL2",  "description": "2.8L V6 TBI",           "years": [1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993] },
+  { "code": "LB4",  "description": "4.3L V6 TBI",           "years": [1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995] },
+  { "code": "L35",  "description": "4.3L V6 Vortec SCPI",   "years": [1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004] },
+  { "code": "LF6",  "description": "4.3L V6 Vortec MPFI",   "years": [1996, 1997, 1998, 1999] },
+  { "code": "LN2",  "description": "2.2L I4",               "years": [1994, 1995, 1996, 1997] },
+  { "code": "L43",  "description": "2.2L I4 (refreshed)",   "years": [1998, 1999, 2000, 2001, 2002, 2003] }
 ]
