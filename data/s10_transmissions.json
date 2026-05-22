@@ -1,0 +1,8 @@
+[
+  { "code": "MX0", "description": "3-Speed Automatic", "type": "automatic", "speeds": 3, "years": [1982, 1983, 1984, 1985, 1986, 1987] },
+  { "code": "MY8", "description": "4-Speed Manual", "type": "manual", "speeds": 4, "years": [1982, 1983, 1984] },
+  { "code": "MG5", "description": "5-Speed Manual (Muncie)", "type": "manual", "speeds": 5, "years": [1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993] },
+  { "code": "MX1", "description": "4-Speed Automatic (4L60)", "type": "automatic", "speeds": 4, "years": [1988, 1989, 1990, 1991, 1992, 1993] },
+  { "code": "MM5", "description": "5-Speed Manual (Getrag 290)", "type": "manual", "speeds": 5, "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004] },
+  { "code": "NV1", "description": "4-Speed Automatic (4L60-E)", "type": "automatic", "speeds": 4, "years": [1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004] }
+]
